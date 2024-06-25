@@ -1,0 +1,25 @@
+{
+  "name": "bi_api_helper",
+  "version": "1.0.0",
+  "description": "A Wrapper for axios to make get, post, put, delete as well as file upload directly as well as designated functions for making each request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhaySinghParihar1/bi_api_helper.git"
+  },
+  "author": "Abhay Singh Parihar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhaySinghParihar1/bi_api_helper/issues"
+  },
+  "homepage": "https://github.com/AbhaySinghParihar1/bi_api_helper#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "form-data": "^4.0.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
